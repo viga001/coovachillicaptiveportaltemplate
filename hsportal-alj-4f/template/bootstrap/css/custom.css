@@ -1,0 +1,51 @@
+.container {
+    max-width: 915px;
+}
+
+
+
+.jmtron-margin {
+	margin-top: 35px;
+}
+
+
+.jumbotronfontcol {
+	color: #f9f9f9;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+tbody {
+	color: white;
+}
+
+
+.jumbotron {
+    background-image: url("../../images/mojave-night.jpg");
+    padding-bottom: 7px;
+    padding-top: 1px;
+}
+
+
+.btn-danger {
+    color: #fff;
+    background-color: #303030;
+    border-color: #ffffff;
+}
+
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    color: white;
+    background-color: #0e1629;
+    border-bottom: 1px solid rgb(0, 0, 4);
+}
+
+.disp4-armi {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
